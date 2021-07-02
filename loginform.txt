@@ -1,2 +1,3 @@
 'change 1 : crétion form layout'
 'change 2 : Ajout du champ username'
+'change 3 : Ajout du champ password'
